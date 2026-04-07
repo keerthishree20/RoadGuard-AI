@@ -1,0 +1,8 @@
+ultralytics==8.2.0
+opencv-python
+numpy
+fastapi
+uvicorn
+pymongo
+python-multipart
+pillow
